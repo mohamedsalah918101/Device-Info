@@ -1,16 +1,17 @@
-# device_features
+# Device Info App
 
-A new Flutter project.
+This Flutter app retrieves and displays the device model name and its operating system version using the `device_info_plus` package.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Displays the device model name and OS version in the center of the screen.
+- Uses `device_info_plus` to get device information.
+- Well-structured code with separate widget files.
+- Clear and self-explanatory variable and function names.
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/mohamedsalah918101/Device-Info.git
+   
